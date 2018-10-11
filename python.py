@@ -116,3 +116,5 @@ while i > 0:
     print(" " * (n-i))
     print("*" * (n-i))
     i -= 1
+    
+#Q: Stick Problem solution
